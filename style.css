@@ -1,0 +1,30 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.top-section{
+    background-color:  #F0FFF0;
+}
+
+.navbar-brand img{
+    width: 200px;
+}
+
+.btn{
+    border-radius: 33px;
+}
+
+h6{
+    color:#FD511A;
+}
+p{
+    color: gray;
+}
+.top-text-color{
+    color: #21B573;
+}
+.container{
+    margin-bottom: 30px;
+}
+.banner{
+    padding: 20px 30px;
+}
