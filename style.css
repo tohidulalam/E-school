@@ -1,5 +1,7 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin:0;
+    padding:0;
 }
 .top-section{
     background-color:  #F0FFF0;
@@ -23,7 +25,7 @@ body{
     border-radius: 33px;
 }
 
-h6{
+.h-six{
     color:#FD511A;
 }
 p{
@@ -97,23 +99,47 @@ small{
     padding: 5px 10px;
 }
 
-.testimonial img{
-    position: relative;
-    width: 120px;
-    height: 120px;
-    left:150px;
-    bottom: 30px;
-    
-}
-
-.test-inner1{
+.testimony{
     margin-top: 50px;
 }
 
-.test-inner2 p{
-    color: black;
+.test-inner1 img{
+    height: 180px;
+    width: 180px;
 }
 
-.testimonial{
-    padding-top: 30px;
+.test-inner1{
+    padding-left: 150px;
+}
+
+.test-row{
+    margin-top: -50px;
+}
+
+.others{
+    padding-top: 40px;
+    background-color: #282531;
+    margin-bottom: 0px;
+}
+
+.para{
+    color: white;
+}
+
+.h5-text{
+    color: white;
+}
+
+.a-tag{
+    color: white;
+}
+
+.course, .links, .terms{
+    padding-left: 78px;
+    
+} 
+
+footer{
+    color: white;
+    padding-bottom: 5px;
 }
