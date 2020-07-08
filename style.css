@@ -74,7 +74,7 @@ p{
 }
 
 .courses .card{
-    border-radius: 18px;
+    border-radius: 18px 18px 15px 15px;
     box-shadow: 5px 5px 15px grey;
 }
 
@@ -142,4 +142,24 @@ small{
 footer{
     color: white;
     padding-bottom: 5px;
+}
+
+.instructor .card img{
+    height: 250px;
+    width: 200px;
+    border-radius: 18px;
+}
+
+.courses .card img{
+   
+    border-radius: 18px;
+}
+
+.instructor .card{
+    border-radius: 18px;
+    box-shadow: 5px 5px 15px grey;
+}
+
+.instructor .card-deck{
+    margin-top: 50px;
 }
