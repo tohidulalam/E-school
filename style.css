@@ -3,13 +3,23 @@ body{
 }
 .top-section{
     background-color:  #F0FFF0;
+    margin-bottom: 50px;
 }
 
 .navbar-brand img{
     width: 200px;
+    height: 59;
+}
+
+.nav-item .btn{
+    padding: 8px 28px;
+    border-radius: 33px;
+    margin-top: -8px;
 }
 
 .btn{
+
+    padding: 8px 28px;
     border-radius: 33px;
 }
 
@@ -23,8 +33,87 @@ p{
     color: #21B573;
 }
 .container{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .banner{
     padding: 20px 30px;
+}
+.icon .card img{
+    width:66px;
+    height:80px;
+}
+
+.icon .card{
+    width: 270px;
+    height: 270px;
+   padding-top: 60px;
+   border: none;
+   background-color:  #F8FFFB;
+    
+}
+
+
+.icon-card2{
+    background-color: white !important;
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px grey;
+}
+
+.icon{
+    margin-bottom: 70px;
+}
+
+.courses .card-deck{
+    margin-top: 50px;
+}
+
+.courses .btn{
+    padding: 8px 28px;
+}
+
+.courses .card{
+    border-radius: 18px;
+    box-shadow: 5px 5px 15px grey;
+}
+
+.course-img{
+    padding: 10px;
+    background-color: white;
+    
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card-footer img{
+    width: 24px;
+    height: 24px;
+    
+}
+.courses{
+    margin-bottom: 50px;
+}
+small{
+    padding: 5px 10px;
+}
+
+.testimonial img{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    left:150px;
+    bottom: 30px;
+    
+}
+
+.test-inner1{
+    margin-top: 50px;
+}
+
+.test-inner2 p{
+    color: black;
+}
+
+.testimonial{
+    padding-top: 30px;
 }
